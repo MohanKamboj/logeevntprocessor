@@ -3,7 +3,7 @@ Application used to read , process and write the log Event
 
 # Log Event Processor
 
-## To can implement this via Spring batch job with easy 
+## We can implement this via Spring batch job with easy 
 - I use plain java to implement it.
 - implmented via Command design pattern.
 - Used Completable Future to process the read , parse and write the in DB.
